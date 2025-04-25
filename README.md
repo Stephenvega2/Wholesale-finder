@@ -33,6 +33,8 @@ python
 
 # self._save_to_database(item)  # Temporarily disable
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/76bd556c181a4e0d8771b4758e205a23)](https://app.codacy.com/gh/Stephenvega2/Wholesale-finder?utm_source=github.com&utm_medium=referral&utm_content=Stephenvega2/Wholesale-finder&utm_campaign=Badge_Grade)
+
 
 Run with one URL to see how parse processes a single page.
 
